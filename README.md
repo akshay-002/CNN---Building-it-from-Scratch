@@ -1,5 +1,7 @@
 # CNN-Building-it-from-Scratch
 
+![CNN Meme](images/matrix.png)
+
 This project involves constructing a Convolutional Neural Network (CNN) from the ground up using Python and NumPy. It covers essential operations like convolution, pooling, and their forward and backward passes.
 
 ## Implemented Functions
