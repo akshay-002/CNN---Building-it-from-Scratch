@@ -1,7 +1,7 @@
 # CNN-Building-it-from-Scratch
+![CNN Meme](images/Convolution_schematic.gif)
 
-![CNN Meme](images/matrix.png)
-
+https://github.com/akshay-002/CNN---Building-it-from-Scratch/blob/main/README.md
 This project involves constructing a Convolutional Neural Network (CNN) from the ground up using Python and NumPy. It covers essential operations like convolution, pooling, and their forward and backward passes.
 
 ## Implemented Functions
@@ -21,6 +21,8 @@ This project involves constructing a Convolutional Neural Network (CNN) from the
 - **pool_backward(dA, cache, mode="max")**: Backward pass for the pooling layer.
 - **create_mask_from_window(x)**: Creates a mask for max pooling.
 - **distribute_value(dz, shape)**: Distributes value across a matrix for average pooling.
+
+![CNN Meme](images/matrix.png)
 
 ## Examples
 
